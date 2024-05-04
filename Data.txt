@@ -1,0 +1,24 @@
+    {
+        "title": "Core and Advance Java",
+        "authorName": "R. Nageswara Rao",
+        "authorEmail": "R.NageswaraRao@gmail.com",
+        "price": "800"
+    }
+    {
+        "title": "Programming with Java",
+        "authorName": "E. Balagurusamy",
+        "authorEmail": "E.Balagurusamy@gmail.com",
+        "price": "350"
+    }
+    {
+        "title": "Data Structures and Algorithms in Java",
+        "authorName": "Robert Lafore",
+        "authorEmail": "RobertLafore@gmail.com",
+        "price": "590"
+    }
+    {
+        "title": "Effective Java",
+        "authorName": "Joshua Bloch",
+        "authorEmail": "JoshuaBloch@gmail.com",
+        "price": "670"
+    }
