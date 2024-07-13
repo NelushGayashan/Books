@@ -66,17 +66,17 @@ The Books Management System is developed using Spring MVC, providing RESTful ser
 - Get all books:
 
     ```bash
-curl http://localhost:8080/books
+    curl http://localhost:8080/books
 
 - Get a book by ID:
 
     ```bash
-curl http://localhost:8080/books/1
+    curl http://localhost:8080/books/1
 
 - Create a new book:
 - 
     ```bash
-curl -X POST -H "Content-Type: application/json" -d '{"title":"Sample Book","authorName":"John Doe","authorEmail":"john.doe@example.com","price":29.99}' http://localhost:8080/books
+    curl -X POST -H "Content-Type: application/json" -d '{"title":"Sample Book","authorName":"John Doe","authorEmail":"john.doe@example.com","price":29.99}' http://localhost:8080/books
 
 - Delete a book by ID:
 
